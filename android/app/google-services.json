@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "990061767137",
+    "firebase_url": "https://tesfireagain.firebaseio.com",
+    "project_id": "tesfireagain",
+    "storage_bucket": "tesfireagain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990061767137:android:857466a9a78ffc4f",
+        "android_client_info": {
+          "package_name": "id.doran.tesfireagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990061767137-15nfn8v72grkb3lp3jl3kh3o4krh8itb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBitzioiccDzhxWhq7WrOO2M0FPYUAsD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
